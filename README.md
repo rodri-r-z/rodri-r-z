@@ -1,4 +1,4 @@
-# `console.log(String.fromCharCode(...([72, 105, 58, 41])))`
+# `console.log("Hello world")`
 
 **Skills: Fullstack, AI & Web Security.**
 
