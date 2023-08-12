@@ -24,7 +24,7 @@ Fullstack, AI & Web Security.
 
 **Coming Soon 🕑**
 
-1. **Speech Synthesis Neural Network (Deep learning) (Current Working)** 
+![Speech Synthesis](https://cdn.jsdelivr.net/gh/rodri-r-z/rodri-r-z/bundles/speechSynthesis.png)
 2. Natural Language Processing Neural Network
 3. Progressive Web Framework for Applications
 
