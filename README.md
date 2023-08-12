@@ -26,9 +26,9 @@ Fullstack, AI & Web Security.
 
 ![Speech Synthesis](https://cdn.jsdelivr.net/gh/rodri-r-z/rodri-r-z/bundles/speechSynthesis-5.png)
 
-![Speech Synthesis](https://cdn.jsdelivr.net/gh/rodri-r-z/rodri-r-z/bundles/nlp.png)
+![Natural Language Proccessing](https://cdn.jsdelivr.net/gh/rodri-r-z/rodri-r-z/bundles/nlp.png)
 
-3. Progressive Web Framework for Applications
+![Progressive Web Framework](https://cdn.jsdelivr.net/gh/rodri-r-z/rodri-r-z/bundles/pwf-2.png)
 
 **Tools I Use ⚒️**
 
