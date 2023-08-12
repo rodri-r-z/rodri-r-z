@@ -24,13 +24,16 @@ Fullstack, AI & Web Security.
 
 **Coming Soon 🕑**
 
-1. Speech Synthesis Neural Network (Deep learning)
+1. **Speech Synthesis Neural Network (Deep learning) (Current Working)** 
 2. Natural Language Processing Neural Network
 3. Progressive Web Framework for Applications
 
-**My tools ⚒️**
+**Tools I Use ⚒️**
 
 [![Regexr](https://cdn.jsdelivr.net/gh/rodri-r-z/rodri-r-z/bundles/regexr_20.png)](https://regexr.com/)
 [![StackOverflow](https://cdn.jsdelivr.net/gh/rodri-r-z/rodri-r-z/bundles/so.jpg)](https://es.stackoverflow.com/users/206458/rodrigo-ram%c3%adrez)
 [![Google Bard](https://cdn.jsdelivr.net/gh/rodri-r-z/rodri-r-z/bundles/gb.jpg)](https://bard.google.com/)
 [![Google Cloud Platform](https://cdn.jsdelivr.net/gh/rodri-r-z/rodri-r-z/bundles/gcp.jpg)](https://cloud.google.com/)
+
+---
+
