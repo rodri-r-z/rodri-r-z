@@ -24,7 +24,7 @@ Fullstack, AI & Web Security.
 
 **Coming Soon 🕑**
 
-![Speech Synthesis](https://cdn.jsdelivr.net/gh/rodri-r-z/rodri-r-z/bundles/speechSynthesis-3.png)
+![Speech Synthesis](https://cdn.jsdelivr.net/gh/rodri-r-z/rodri-r-z/bundles/speechSynthesis-4.png)
 
 ![Speech Synthesis](https://cdn.jsdelivr.net/gh/rodri-r-z/rodri-r-z/bundles/nlp.png)
 
