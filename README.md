@@ -34,6 +34,3 @@ Fullstack, AI & Web Security.
 [![StackOverflow](https://cdn.jsdelivr.net/gh/rodri-r-z/rodri-r-z/bundles/so.jpg)](https://es.stackoverflow.com/users/206458/rodrigo-ram%c3%adrez)
 [![Google Bard](https://cdn.jsdelivr.net/gh/rodri-r-z/rodri-r-z/bundles/gb.jpg)](https://bard.google.com/)
 [![Google Cloud Platform](https://cdn.jsdelivr.net/gh/rodri-r-z/rodri-r-z/bundles/gcp.jpg)](https://cloud.google.com/)
-
----
-
