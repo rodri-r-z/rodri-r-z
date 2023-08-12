@@ -1,3 +1,4 @@
+
 # `console.log("Hello world")`
 
 Fullstack, AI & Web Security.
@@ -21,5 +22,14 @@ Fullstack, AI & Web Security.
 
 ---
 
-## Coming Soon
+**Coming Soon 🕑**
 
+1. Speech Synthesis Neural Network (Deep learning)
+2. Natural Language Processing Neural Network
+3. Progressive Web Framework for Applications
+
+**My tools ⚒️**
+
+[![Regexr](https://cdn.jsdelivr.net/gh/rodri-r-z/rodri-r-z/bundles/regexr_20.png)](https://regexr.com/)
+[![StackOverflow](https://cdn.jsdelivr.net/gh/rodri-r-z/rodri-r-z/bundles/so.jpg)](https://es.stackoverflow.com/users/206458/rodrigo-ram%c3%adrez)
+[![Google Bard](https://cdn.jsdelivr.net/gh/rodri-r-z/rodri-r-z/bundles/gb.jpg)](https://bard.google.com/)
