@@ -1,6 +1,8 @@
 
 # `console.log("Hello world")`
 
+> **💔: In strike - bye for now.**
+
 Fullstack, AI & Web Security.
 
 > _Well done is better than well said_
