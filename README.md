@@ -2,6 +2,8 @@
 
 I am Rodrigo, a self-taught developer, now in its way to become a professional one. 
 
+[Check my website](https://rodrigoo-r.github.io/about-me/)
+
 ## 📚 My skills
 
 - **Web development**: HTML, CSS, JS, TS, Pug, Vue, Next.js, React & Electron.
